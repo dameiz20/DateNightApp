@@ -1,0 +1,17 @@
+/Users/student/Projects/DateNight/DateNight/bin/Debug/netstandard2.0/DateNight.deps.json
+/Users/student/Projects/DateNight/DateNight/bin/Debug/netstandard2.0/DateNight.dll
+/Users/student/Projects/DateNight/DateNight/bin/Debug/netstandard2.0/ref/DateNight.dll
+/Users/student/Projects/DateNight/DateNight/bin/Debug/netstandard2.0/DateNight.pdb
+/Users/student/Projects/DateNight/DateNight/obj/Debug/netstandard2.0/DateNight.csprojAssemblyReference.cache
+/Users/student/Projects/DateNight/DateNight/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/student/Projects/DateNight/DateNight/obj/Debug/netstandard2.0/views/CoffeePage.xaml.g.cs
+/Users/student/Projects/DateNight/DateNight/obj/Debug/netstandard2.0/views/CostPage.xaml.g.cs
+/Users/student/Projects/DateNight/DateNight/obj/Debug/netstandard2.0/views/DinnerPage.xaml.g.cs
+/Users/student/Projects/DateNight/DateNight/obj/Debug/netstandard2.0/views/MoviePage.xaml.g.cs
+/Users/student/Projects/DateNight/DateNight/obj/Debug/netstandard2.0/DateNight.AssemblyInfoInputs.cache
+/Users/student/Projects/DateNight/DateNight/obj/Debug/netstandard2.0/DateNight.AssemblyInfo.cs
+/Users/student/Projects/DateNight/DateNight/obj/Debug/netstandard2.0/DateNight.csproj.CoreCompileInputs.cache
+/Users/student/Projects/DateNight/DateNight/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/student/Projects/DateNight/DateNight/obj/Debug/netstandard2.0/DateNight.dll
+/Users/student/Projects/DateNight/DateNight/obj/Debug/netstandard2.0/ref/DateNight.dll
+/Users/student/Projects/DateNight/DateNight/obj/Debug/netstandard2.0/DateNight.pdb

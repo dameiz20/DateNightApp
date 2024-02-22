@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{522443D9-D8EF-433D-9B10-65A88C5A2058}|Default">
+  <MonoDevelop.Ide.ItemProperties.DateNight.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.5960E371-D1D4-4466-98E1-2A231AA12CB2" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DateNight/App.xaml.cs">
+    <Files>
+      <File FileName="DateNight/models/DateCalculator.cs" Line="13" Column="46" />
+      <File FileName="DateNight/TabController.cs" />
+      <File FileName="DateNight/views/CoffeePage.xaml" />
+      <File FileName="DateNight/views/CostPage.xaml" />
+      <File FileName="DateNight/views/DinnerPage.xaml" />
+      <File FileName="DateNight/views/MoviePage.xaml" />
+      <File FileName="DateNight/views/CoffeePage.xaml.cs" />
+      <File FileName="DateNight/views/CostPage.xaml.cs" />
+      <File FileName="DateNight/views/DinnerPage.xaml.cs" />
+      <File FileName="DateNight/views/MoviePage.xaml.cs" />
+      <File FileName="DateNight/App.xaml.cs" Line="4" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DateNight" expanded="True">
+            <Node name="DateNight" expanded="True">
+              <Node name="models" expanded="True" />
+              <Node name="views" expanded="True">
+                <Node name="CoffeePage.xaml" expanded="True" />
+                <Node name="CostPage.xaml" expanded="True" />
+                <Node name="DinnerPage.xaml" expanded="True" />
+                <Node name="MoviePage.xaml" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True">
+                <Node name="App.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DateNight.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
